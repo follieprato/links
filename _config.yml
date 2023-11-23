@@ -5,7 +5,7 @@ name: Follie Abbigliamento
 tagline: Abbigliamento donna a Prato, via Pistoiese 615/Q
 
 # YOUR/BRAND IMAGE URL
-Image_URL: /assets/images/logo.png
+Image_URL: https://github.com/follieprato/links/blob/master/assets/images/logo.png?raw=true
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
